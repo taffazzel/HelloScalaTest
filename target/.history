@@ -1,3 +1,11 @@
 compile
 test
 exit
+compile
+run
+test
+exit
+test
+exit
+test
+exit
