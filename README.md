@@ -15,3 +15,7 @@ This is written in Branch TestC2
 ----------------------------------------------
 i am newly added to TESTC branch
 
+
+------------
+testing RESET
+>>>>>>> testC
