@@ -4,3 +4,6 @@ This is written in branch testC for testing
 ---------------------------------------
 I am new commit in MASTER
 
+----------------------------------------------
+i am newly added to TESTC branch
+
