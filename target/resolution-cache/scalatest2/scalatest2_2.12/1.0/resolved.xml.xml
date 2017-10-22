@@ -4,7 +4,7 @@
 		module="scalatest2_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20170808132100"
+		publication="20170823185008"
 	>
 		<description>
 		Scalatest2
